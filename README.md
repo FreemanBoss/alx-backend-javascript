@@ -5,3 +5,6 @@
 
     ### second project
     - 0x01-ES6_promise
+
+    ### second project
+    - 0x03-ES6_data_manipulation
